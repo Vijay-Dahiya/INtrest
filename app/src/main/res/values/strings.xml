@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intrest_Layout</string>
+    <string name="podcasts">Podcasts</string>
+    <string name="what_topic_do_you_love">What topic do you love?</string>
+    <string name="books">Books</string>
+    <string name="news">News</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="grammar">Grammar</string>
+    <string name="technology">Technology</string>
+    <string name="business">Business</string>
+    <string name="sports">Sports</string>
+    <string name="pronunciation">Pronunciation</string>
+    <string name="health">Health</string>
+
+    <string name="continue_gor">Continue</string>
+</resources>
